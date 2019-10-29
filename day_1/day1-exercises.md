@@ -1,3 +1,5 @@
+<p>
+
 1.  On a website, what is the purpose of HTML code?  
   HTML describes the structure of a webpage.
 
@@ -30,7 +32,8 @@
   Text elements that don't affect the structure of the page but add extra information.
 
 9.  What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
-  <header nav> article>
+  header nav article
+  </p>
 
 
   <html>

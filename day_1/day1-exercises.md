@@ -10,7 +10,7 @@
   Attributes define a name & a value to modify the elements, found in the opening tag.
 
 4.  Describe the purpose of the head, title, and body HTML elements.
-  <head> contains information about the webpage which will not be displayed on the page.
+  < head > contains information about the webpage which will not be displayed on the page.
   <title> shown in the browser tab or at the top of the browser window - name of website
   <body> this is what contains all the viewable content on the webpage
 

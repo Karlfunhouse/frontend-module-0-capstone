@@ -10,7 +10,6 @@ Chp 5. Images HTML
   `png` files are best used for pictures with few colors or pictures with large areas of the same color.
 
 Chp 16. Images CSS
-
 1.  What is the benefit of specifying the height and width of images in CSS compared to specifying in the HTML?
   First off it keeps the HTML code cleaner.  CSS also allows you to specify image sizes that can be utilized repeatedly throughout the HTML code.
 

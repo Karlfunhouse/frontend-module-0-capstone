@@ -1,0 +1,81 @@
+body {
+
+    background-image: url("images/background.jpg");
+    background-position: center center;
+    font-style: Arial;
+
+
+}
+
+h1 {
+    color: limegreen;
+    font-size: 44;
+    font-family: Arial, Verdana, sans-serif;
+    Text-align: center;
+    background-color: FFFFFF;
+    border-style: solid;
+    border-color: darkviolet;
+    padding: 5px;
+}
+h2 {
+    color: darkviolet;
+    font-size: 33;
+    border-style: solid;
+    border-color: limegreen;
+    text-align: center;
+    font-family:Georgia, Times;
+}
+
+p {
+  color: limegreen;
+  text-align: left;
+  border-style: dashed;
+  border-color: darkviolet;
+  font-size: 25;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+p.other {
+  color: limegreen;
+  text-align: left;
+  border-style: dashed;
+  border-color: darkviolet;
+  font-size: 25;
+  font-family: monospace;
+}
+
+fieldset {
+  color: limegreen;
+
+}
+img.align-center {
+  display: center;
+  margin:0px auto;
+}
+
+
+
+
+ol {
+  text-align: left;
+  color: darkviolet;
+  border-color: white;
+  font-size: 33;
+}
+
+img.large {
+  width:500px;
+  height:500px;
+
+}
+
+img.medium {
+  width:300px;
+  height:300px;
+  display: inline;
+
+}
+img.small {
+  width:200px;
+  height:200px;
+}

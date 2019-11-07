@@ -1,3 +1,5 @@
+Chapters 3-4
+
 1.  There are three main types of lists in HTML: ordered, unordered, and definition. What are their differences?
 ordered is for making numerical lists.  unordered is for making lists that will be ordered using bullet points.  definition lists can be used to define terms and give a definition below the word/phrase being defined
 2.  What is the basic structure of an element used to link to another website?
@@ -10,6 +12,7 @@ set the id marker wherever you'd like the link to go to.
 then the link would look like
 <a href="#beginning">Back to The Beginning </a>
 
+Chapters 10-12
 
 1.  What is the purpose of CSS?
 CSS stylizes the HTML.

@@ -1,4 +1,4 @@
-<p>
+Chapters 1-2
 
 1.  On a website, what is the purpose of HTML code?  
   HTML describes the structure of a webpage.
@@ -33,31 +33,6 @@
 
 9.  What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
   header nav article
-  </p>
 
 
-  <html>
-    <head>
-      <title>My First Web Page</title>
-    </head>
-      <body>
-        <h1>Yesterday was the first day of the rest of my life!</h1>
-
-          <p>This is an <u>HTML</u> page that I created in codepen to talk about why I'm motivated to become a programmer.</p>
-
-        <h3> <u>Time is just a movin' on down the road</u></h3>
-
-          <p>It all started when I realized that the life that I had been living, the path that I had been pursuing, just wasn't bringing the same fulfillment that it once did.  Sure, there was so much fun and freedom in the constant swirl and transition between trimming, traveling and riding the festival flow, but at some point a guy just wakes up and realizes that 7 years have passed.  7 beautiful, <em>fantastically</em> <strong>magical</strong> years that he wouldn't trade for anything, but once there's a crack in the facade, that which once was the highest joy just doesn't quite fill the same void.</p>
-
-          <p> And thats when he realized...<br /> There was an entirely new undiscovered horizon awaiting...in cyber space.  After years of living in such a pinnacle state of joy and play, the candy just wasn't tasting as sweet anymore.  And the reality that fulfilling life changing work was the main ingredient missing in this swirl of fun and magic and love.  He was ready to do the <b>Work Hard</b> part of the <i>Work Hard Play Hard</i> formula.  </p>
-
-        <h3><u>A new hope...</u></h3>
-
-          <p>So here I sit, in the captain's chair, reorienting the trajectory towards my own newly claimed destiny.  Do I know where I'm going?  <br /> No. <br />  But do I feel a calling deep in my jellys, urging me onward towards the unseen pot of gold at the end of the digital rainbow? <br /> <strong>You're Gat Dang RIGHT I do.</strong> . Buckle up, we're in it for the long haul.
-
-          <p></p>
-          <p></p>
-          <p></p>
-          <p>With all the Rainbow Sparkle Love I've got.<br /> <br />Karl</p>
-    </body>
-  </html>
+Codepen link : https://codepen.io/Karlfunhouse/pen/NWWRypX
